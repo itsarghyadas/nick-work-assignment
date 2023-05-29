@@ -360,7 +360,7 @@ function Checkout() {
           <hr className="my-6 bg-slate-200/50 h-[1px] border-none" />
           <div className="form-part-header">
             <h3 className="text-2xl font-clash font-[580] text-slate-800">
-              Select Extras
+              Customer Details
             </h3>
             <p className="text-sm my-1 text-slate-500/80">
               If you have extras, you can set them up here and charge a price
