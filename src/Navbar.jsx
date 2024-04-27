@@ -124,7 +124,7 @@ function Navbar() {
             </div>
           </button>
           <div className="header-menu hidden lg:block">
-            <ul className="flex space-x-10 text-base font-bold text-slate-700">
+            <ul className="flex space-x-10 text-base font-semibold text-slate-700">
               <li>
                 <button>Home</button>
               </li>
@@ -136,7 +136,7 @@ function Navbar() {
               </li>
             </ul>
           </div>
-          <div className="header-button space-x-2">
+          <div className="header-button">
             <div className="hidden lg:flex lg:items-center">
               <button className="inline-flex justify-center rounded-lg bg-slate-900 px-4 py-2.5 text-sm font-semibold text-white hover:bg-slate-800">
                 <span>
